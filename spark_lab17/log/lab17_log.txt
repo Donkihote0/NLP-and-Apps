@@ -1,0 +1,5 @@
+
+Bắt đầu: 2025-10-02T12:44:56.855267200Z
+Processed rows: 2000
+Saved output to: results/lab17_pipeline_output.txt
+Hoàn thành: 2025-10-02T12:44:56.985598800Z
